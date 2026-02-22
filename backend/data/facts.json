@@ -1,0 +1,21 @@
+{
+  "full_name": "Nicholas Andrea Nogueira Dela Torre Cavallo",
+  "name": "Nicholas Nogueira",
+  "current_role": "Software Engineer",
+  "location": "Diadema, Brazil",
+  "email": "nicholas.delatorre@gmail.com",
+  "linkedin": "www.linkedin.com/in/nicholas-nogueira-82778a115",
+  "specialties": [
+    ".NET",
+    "Sofware Engineering",
+    "AI Engeneering"
+  ],
+  "years_experience": 7,
+  "education": [
+    {
+      "degree": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FIAP",
+      "year": "2018"
+    }
+  ]
+}
