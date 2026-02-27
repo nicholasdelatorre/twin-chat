@@ -32,3 +32,4 @@ uv.lock
 .idea/
 *.swp
 .DS_Store
+terraform/variables.tf
