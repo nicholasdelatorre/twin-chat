@@ -23,10 +23,9 @@ variable "bedrock_model_id" {
 }
 
 variable "openai_api_key" {
-  description = "OpenAI model ID"
+  description = "OpenAI Api Key"
   type        = string
-  default     = "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"
-
+  sensitive   = true
 }
 
 variable "openai_model_id" {
