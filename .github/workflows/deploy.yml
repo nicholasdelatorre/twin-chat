@@ -25,6 +25,9 @@ jobs:
     runs-on: ubuntu-latest
     environment: ${{ github.event.inputs.environment || 'dev' }}
     
+    env:
+      TF_VAR_openai_api_key: ${{ secrets.OPENAI_API_KEY }}  # Prefixo TF_VAR_ injeta na var Terraform
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
